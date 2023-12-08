@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Little Nightmares 2 é anunciado de surpresa na Gamescom - Arkade.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
