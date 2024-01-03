@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyC8skNHB-JrNBq6jQECjsPJgGQ7q7RBLxc</string>
+	<string>AIzaSyDgLFjH6OfUmqZMIypEukKBl97gk1ItMDI</string>
 	<key>GCM_SENDER_ID</key>
-	<string>70702140102</string>
+	<string>331540694891</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.josesdio.PlayPalProject</string>
 	<key>PROJECT_ID</key>
-	<string>playpal-b3442</string>
+	<string>playpal-5eddb</string>
 	<key>STORAGE_BUCKET</key>
-	<string>playpal-b3442.appspot.com</string>
+	<string>playpal-5eddb.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:70702140102:ios:921153f55996848192a5c7</string>
+	<string>1:331540694891:ios:188171615a0f26664b6e2e</string>
 </dict>
 </plist>
